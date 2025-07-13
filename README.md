@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Laura Squire
 
-<!--
-**laura-ai-experiments/laura-ai-experiments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my AI portfolio space! I'm a senior software engineer with a passion for agentic AI systems, LLM tooling, and GenAI applications that solve real-world problems.
 
-Here are some ideas to get you started:
+After years in tech and a creative chapter running my own photography business, I'm now focused full-time on advancing my skills in large language models, RAG architectures, agent frameworks, and NVIDIA's GenAI stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Current Focus
+- Building end-to-end GenAI applications using LangChain, AutoGen, and LangGraph
+- Deploying LLMs using vLLM, Triton, and NeMo
+- Experimenting with observability tools like LangSmith, Arize Phoenix, and W&B Weave
+- Prototyping agent toolkits for enterprise workflows
+
+---
+
+## 🚧 Projects (in progress)
+- **RAG Chatbot from Scratch** – Document Q&A with evaluation via RAGAs
+- **Multi-Tool LLM Agent** – LangChain + LangGraph powered workflow for decision making
+- **OpenAI + FastAPI Backend** – Serving LLMs through clean API endpoints with observability
+- **AutoGen Agents** – Exploring multi-agent collaboration using Microsoft's AutoGen framework
+
+---
+
+## 📍 Let's Connect
+- 🌐 [laurasquirestudios.com](https://www.laurasquirestudios.com) (Creative portfolio)
+- 🧠 Hugging Face: [@laura-ai-experiments](https://huggingface.co/laura-ai-experiments)
+- 💼 LinkedIn: [linkedin.com/in/laurasquire](https://linkedin.com/in/laurasquire)
+
+---
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+Thanks for visiting!
+
