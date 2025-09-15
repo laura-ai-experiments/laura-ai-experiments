@@ -23,9 +23,9 @@ After years in tech and a creative chapter running my own photography business, 
 ---
 
 ## 📍 Let's Connect
-- 🌐 [laurasquirestudios.com](https://www.laurasquirestudios.com) (Creative portfolio)
+- 🌐 [laurasquireportraits.com](https://www.laurasquireportraits.com) (Creative portfolio)
 - 🧠 Hugging Face: [@laura-ai-experiments](https://huggingface.co/laura-ai-experiments)
-- 💼 LinkedIn: [linkedin.com/in/laurasquire](https://linkedin.com/in/laurasquire)
+- 💼 LinkedIn: [linkedin.com/in/brinduc](https://linkedin.com/in/brinduc)
 
 ---
 
