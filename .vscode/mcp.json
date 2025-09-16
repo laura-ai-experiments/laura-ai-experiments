@@ -1,0 +1,30 @@
+{
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "owner",
+      "description": "GitHub owner/org",
+      "default": "laura-ai-experiments"
+    },
+    {
+      "type": "promptString",
+      "id": "repo",
+      "description": "Private repo name",
+      "default": "ml-exercises-private"
+    }
+  ],
+  "servers": {
+    "github-reader-mcp": {
+      "command": "${workspaceFolder}/projects/mcp-github-reader/.venv/bin/python",
+      "args": [
+        "main.py"
+      ],
+      "cwd": "${workspaceFolder}/projects/mcp-github-reader",
+      "envFile": "${workspaceFolder}/projects/mcp-github-reader/.env",
+      "env": {
+        "GITHUB_DEFAULT_OWNER": "${input:owner}",
+        "GITHUB_DEFAULT_REPO": "${input:repo}"
+      }
+    }
+  }
+}

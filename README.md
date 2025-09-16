@@ -15,6 +15,7 @@ After years in tech and a creative chapter running my own photography business, 
 ---
 
 ## 🚧 Projects (in progress)
+- **MCP Server** – Private GitHub Reader
 - **RAG Chatbot from Scratch** – Document Q&A with evaluation via RAGAs
 - **Multi-Tool LLM Agent** – LangChain + LangGraph powered workflow for decision making
 - **OpenAI + FastAPI Backend** – Serving LLMs through clean API endpoints with observability
