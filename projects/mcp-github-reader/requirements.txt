@@ -1,0 +1,4 @@
+modelcontextprotocol[server]
+pydantic
+httpx
+python-dotenv

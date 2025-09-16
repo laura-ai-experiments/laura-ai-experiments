@@ -1,0 +1,1 @@
+Python MCP server that authenticates with a Fine-Grained PAT to read from laura-ai-experiments/ml-exercises-private. Tools: set_target_repo, gh_repo_info, gh_list_dir, gh_get_text_file, gh_search_code. Designed for local dev + easy swapping of target repos.
